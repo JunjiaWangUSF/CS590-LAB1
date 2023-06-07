@@ -9,7 +9,7 @@ public class HelloWord {
 
         System.out.println("hello from Guo");
 
-        System.out.println("we created a new isuue ");
+        System.out.println("we created a new issue ");
 
     }
 }
